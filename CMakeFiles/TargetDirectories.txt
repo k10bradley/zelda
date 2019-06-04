@@ -1,0 +1,4 @@
+/home/kcpbradl/Desktop/GoodZelda/CMakeFiles/edit_cache.dir
+/home/kcpbradl/Desktop/GoodZelda/CMakeFiles/Zelda.dir
+/home/kcpbradl/Desktop/GoodZelda/CMakeFiles/rebuild_cache.dir
+/home/kcpbradl/Desktop/GoodZelda/CMakeFiles/intrinsics_gen.dir

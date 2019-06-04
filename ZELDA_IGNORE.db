@@ -1,0 +1,17 @@
+####################################################################
+## Rex Ignore File
+##
+## This tells Rex the paths to ignore when analyzing a project.
+## By default Rex will ignore ROS libraries.
+## 
+## This file can be modified with new libraries.
+####################################################################
+
+#ROS Library
+/opt/ros/
+
+#Other Libraries
+/usr/local/include/pcl-1.8/
+/usr/include/pcl-1.7/
+/usr/include/eigen3/
+/anm_msgs/
